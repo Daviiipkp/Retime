@@ -1,0 +1,9 @@
+org/daviipkp/Retime.class
+org/daviipkp/ServerManager.class
+org/daviipkp/reminder/LongReminder.class
+org/daviipkp/reminder/Reminder.class
+org/daviipkp/deadline/DeadlineAction.class
+org/daviipkp/DatabaseManager.class
+org/daviipkp/deadline/HttpPostDeadlineAction.class
+org/daviipkp/reminder/ReminderLink.class
+org/daviipkp/reminder/ShortReminder.class
